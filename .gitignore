@@ -1,0 +1,6 @@
+.pytest_cache
+.venv
+image.png
+pyproject.toml
+test.log
+uv.lock
